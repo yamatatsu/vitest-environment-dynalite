@@ -8,6 +8,6 @@
     "test": "pnpm run --filter '!./packages/test-config-mjs' test"
   },
   "devDependencies": {
-    "prettier": "^3.2.5"
+    "prettier": "^3.3.2"
   }
 }
