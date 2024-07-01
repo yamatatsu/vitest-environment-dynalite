@@ -10,7 +10,7 @@
     "@aws-sdk/client-dynamodb": "^3.565.0",
     "@aws-sdk/lib-dynamodb": "^3.565.0",
     "@types/node": "^20.12.11",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.2",
     "vitest": "1.6.0",
     "vitest-dynamodb-lite": "workspace:../vitest-dynamodb-lite"
   }
