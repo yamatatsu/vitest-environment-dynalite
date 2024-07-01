@@ -36,8 +36,8 @@
     "build": "unbuild"
   },
   "dependencies": {
-    "@aws-sdk/client-dynamodb": "^3.565.0",
-    "@aws-sdk/util-dynamodb": "^3.565.0",
+    "@aws-sdk/client-dynamodb": "^3.606.0",
+    "@aws-sdk/util-dynamodb": "^3.606.0",
     "dynalite": "^3.2.2"
   },
   "peerDependencies": {

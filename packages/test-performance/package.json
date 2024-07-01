@@ -8,8 +8,8 @@
     "check-performance": "vitest run --maxWorkers=16"
   },
   "devDependencies": {
-    "@aws-sdk/client-dynamodb": "^3.565.0",
-    "@aws-sdk/lib-dynamodb": "^3.565.0",
+    "@aws-sdk/client-dynamodb": "^3.606.0",
+    "@aws-sdk/lib-dynamodb": "^3.606.0",
     "@types/node": "^20.12.11",
     "typescript": "^5.4.5",
     "vitest": "1.6.0",
